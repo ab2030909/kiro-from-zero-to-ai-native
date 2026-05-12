@@ -19,7 +19,7 @@ This repo explores that shift through real projects, experiments, and learning l
 
 ---
 
-## 📅 What This Series Covers
+##  What This Series Covers
 
 Over 10 days, I’ll be documenting my learning and building journey:
 
@@ -38,5 +38,58 @@ Each day has its own folder with code, notes, and screenshots.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
+
+
+Each folder represents a step in my learning journey, including:
+- source code  
+- notes  
+- screenshots  
+- observations  
+
+---
+
+##  Blog Series
+
+This project is also documented on Dev.to as a series:
+
+ https://dev.to/abdullah_haroon_092cf10d3/what-is-kiro-the-beginning-of-spec-driven-development-4ohb  
+
+More posts coming soon as I progress through the 10 days.
+
+---
+
+##  Goals of This Project
+
+- Understand AI-native development workflows  
+- Learn spec-driven development using Kiro  
+- Build real projects step-by-step  
+- Document learning publicly  
+- Explore how AI changes software engineering  
+
+---
+
+##  Why This Matters
+
+This is not just a coding series.
+
+It’s an exploration of how development is shifting from:
+
+> writing code → to defining intent → to collaborating with AI systems
+
+---
+
+##  Tech / Tools
+
+- Kiro (AI-native IDE / workflow tool)  
+- JavaScript / Python (depending on project)  
+- Git & GitHub for version control  
+- Dev.to for documentation  
+
+---
+
+
+##  Connect
+
+If you're exploring AI-native development or working with similar tools, feel free to follow along with this journey.
 
